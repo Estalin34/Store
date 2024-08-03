@@ -1,0 +1,44 @@
+.btn-editar {
+    background-color: #88D66C; /* Verde claro */
+    color: white; /* Texto en blanco */
+    border: none; /* Sin bordes */
+    padding: 10px 20px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    font-size: 16px; /* Tamaño de fuente */
+    cursor: pointer; /* Mano al pasar el ratón */
+    transition: background-color 0.3s ease; /* Transición suave */
+}
+
+.btn-editar:hover {
+    background-color: #76c159; /* Color al pasar el ratón */
+}
+
+.btn-eliminar {
+    background-color: #F5004F; /* Rojo intenso */
+    color: white; /* Texto en blanco */
+    border: none; /* Sin bordes */
+    padding: 10px 20px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    font-size: 16px; /* Tamaño de fuente */
+    cursor: pointer; /* Mano al pasar el ratón */
+    transition: background-color 0.3s ease; /* Transición suave */
+}
+
+.btn-eliminar:hover {
+    background-color: #c40034; /* Color al pasar el ratón */
+}
+
+.btn-agregar {
+    background-color: #134B70; /* Azul oscuro */
+    color: white; /* Texto en blanco */
+    border: none; /* Sin bordes */
+    padding: 10px 20px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+    font-size: 16px; /* Tamaño de fuente */
+    cursor: pointer; /* Mano al pasar el ratón */
+    transition: background-color 0.3s ease; /* Transición suave */
+}
+
+.btn-agregar:hover {
+    background-color: #0f3a5e; /* Color al pasar el ratón */
+}
